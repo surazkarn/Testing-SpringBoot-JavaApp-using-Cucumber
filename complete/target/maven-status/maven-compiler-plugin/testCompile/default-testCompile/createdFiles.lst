@@ -1,0 +1,3 @@
+com\example\test\RunCucumberTests.class
+com\example\restservice\GreetingControllerTests.class
+stepdefinitions\GreetingStepDefinitions.class
